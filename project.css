@@ -36,5 +36,19 @@ body{
     border-radius: 10%;
     text-align: justify;
 }
+.floatbutton{
+    float: right;
+    float: inline-end;
+
+}
+#btn{
+    margin-top: 5%;
+    padding: 15px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    
+}
+
 
  
