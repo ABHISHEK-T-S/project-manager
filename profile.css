@@ -1,0 +1,49 @@
+.nav-item{
+    padding-left: 20px;
+    padding-right: 40px;
+    
+}
+.navbar-brand{
+    font-size: 20px;
+    padding-left: 10px;
+}
+body{
+    background-color: lightslategray;
+}
+ .navbar{
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 10px;
+ }
+ .card{
+     margin-top: 4%;
+     background: #000;
+     color: rgb(25, 122, 134);
+     text-align: center;
+     font-size: xx-large;
+     border-radius: 10px;
+ }
+
+.floatbutton{
+    float: right;
+    float: inline-end;
+
+}
+#btn{
+    margin-top: 5%;
+    padding: 15px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700; 
+    border-radius: 10px;  
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  .profileitems{
+      text-align: center;
+  }
